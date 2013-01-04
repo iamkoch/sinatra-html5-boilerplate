@@ -30,10 +30,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="app.css.scss" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="app.css.scss" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/frontend/styles/app.css.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="21" selection-start="45" selection-end="45" vertical-scroll-proportion="0.15679443">
+                <state line="3" column="21" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -66,10 +66,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="98" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
+                <state line="8" column="36" selection-start="334" selection-end="334" vertical-scroll-proportion="0.41811848">
                   <folding />
                 </state>
               </provider>
@@ -138,7 +138,6 @@
       <list>
         <option value="$PROJECT_DIR$/app/frontend/scripts/application.js.coffee" />
         <option value="$PROJECT_DIR$/app/frontend/scripts/plugins.js.coffee" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app/views/index.haml" />
         <option value="$PROJECT_DIR$/app/boot.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
@@ -146,6 +145,7 @@
         <option value="$PROJECT_DIR$/config.ru" />
         <option value="$PROJECT_DIR$/app/views/layout.haml" />
         <option value="$PROJECT_DIR$/app/frontend/styles/app.css.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -187,6 +187,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Tcktr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -489,20 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="98" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/boot.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
@@ -517,9 +507,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.ru">
+    <entry file="file://$PROJECT_DIR$/app/views/layout.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="19" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
+        <state line="18" column="39" selection-start="631" selection-end="631" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/frontend/styles/app.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="21" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -531,16 +535,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layout.haml">
+    <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="39" selection-start="631" selection-end="631" vertical-scroll-proportion="-6.875">
+        <state line="12" column="19" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/frontend/styles/app.css.scss">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="45" selection-end="45" vertical-scroll-proportion="0.15679443">
+        <state line="8" column="36" selection-start="334" selection-end="334" vertical-scroll-proportion="0.41811848">
           <folding />
         </state>
       </provider>
