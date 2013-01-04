@@ -8,6 +8,12 @@ This a Sinatra HTML5 boilerplate which implements the following gems and technol
 * Development Server - shotgun
 * JSON Serialisation - yajl-ruby
 
+# Instructions
+* Check out the repo
+* cd into the directory
+* Run 'shotgun' (for development) or 'rackup'
+* Party
+
 # Thanks and Nods
 
 The layout for this project is based on the [play](https://github.com/play/play) project by GitHub.
