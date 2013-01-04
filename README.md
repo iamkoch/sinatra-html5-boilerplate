@@ -18,3 +18,5 @@ This a Sinatra HTML5 boilerplate which implements the following gems and technol
 
 The layout for this project is based on the [play](https://github.com/play/play) project by GitHub.
 
+Obviously the major nod goes to [html5boilerplate!](http://html5boilerplate.com/). This project is based on v4.0.2
+
