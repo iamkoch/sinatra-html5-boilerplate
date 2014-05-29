@@ -2,11 +2,12 @@
 
 This a Sinatra HTML5 boilerplate which implements the following gems and technologies:
 * HTML - HAML
-* CSS - SCSS, served by sprockets from /css
-* JS - CoffeeScript, served by sprockets from /js
+* CSS - SCSS
+* JS - CoffeeScript
 * Server - rack & thin
 * Development Server - shotgun
 * JSON Serialisation - yajl-ruby
+* Grunt - handles scss, coffeescript, filewatching and also livereload. Also uglifies and minifies
 
 # Instructions
 * Check out the repo
