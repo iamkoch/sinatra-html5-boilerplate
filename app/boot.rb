@@ -5,6 +5,6 @@ require 'yajl'
 require 'coffee-script'
 require 'sinatra/base'
 require 'haml'
-require 'sass'
-
+require 'sass/plugin/rack'
+use Sass::Plugin::Rack
 require 'app'
